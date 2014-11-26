@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidFacebookConnectActivity!</string>
+    <string name="app_name">AndroidFacebookConnect</string>
+	<string name="facebook_app_id">462150337256382</string>
+</resources>
